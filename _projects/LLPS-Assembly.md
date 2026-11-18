@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Self-limiting Assembly Coupled to Liquid-Liquid Phase Separation
-description: with background image
+title: research
+description: Self-limiting Assembly Coupled to Liquid-Liquid Phase Separation
 img: assets/img/ExCoMo-ModelSchematic.png
 importance: 1
 category: work
